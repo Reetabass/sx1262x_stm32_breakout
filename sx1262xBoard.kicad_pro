@@ -719,6 +719,14 @@
     [
       "d84ce4e3-98d4-420e-b119-fe3020ec19b1",
       "FlashSD"
+    ],
+    [
+      "2745ff01-00b1-4c90-8c16-65dfe2a981b2",
+      "Power"
+    ],
+    [
+      "9ec9a3b2-3492-425a-a103-29f5d328dd49",
+      "CAN"
     ]
   ],
   "text_variables": {}
